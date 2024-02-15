@@ -1,2 +1,2 @@
-# C-
+# C++
 memo for C++
